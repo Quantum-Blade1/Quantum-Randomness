@@ -1,4 +1,4 @@
-# Quantum-Randomness 🎲⚛️
+# Quantum-Randomness 
 
 Hi! I’m **Krish (Quantum-Blade1)**, and this repository showcases my experiments with **Quantum Computing, AI, ML, and Full-Stack Development**.  
 
