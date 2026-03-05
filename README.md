@@ -2,7 +2,7 @@
 
 Hi! I’m **Krish (Quantum-Blade1)**, and this repository showcases my experiments with **Quantum Computing, AI, ML, and Full-Stack Development**.  
 
-Here, I’ve built **fun and educational quantum projects** that use **Qiskit** to demonstrate concepts like **superposition, randomness, and quantum measurement**.  
+Here, I’ve built **fun and educational quantum projects** that use **Qiskit** to demonstrate concepts like **superposition, randomness, and quantum measurement**.      
 
 ---
 
@@ -24,3 +24,4 @@ Here, I’ve built **fun and educational quantum projects** that use **Qiskit** 
 - **Try it:** `python quantum_dice.py`
 
 ---
+   
